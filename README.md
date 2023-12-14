@@ -140,17 +140,17 @@ After:
 
 
 **Output on VIdeo:**
+
 Before:
 
-https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/assets/41849571/a9380048-dea0-49d7-a690-afc59345aa0b
+
+![video_sebelum_yolov8](https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/assets/41849571/b0e84225-b38d-4c12-8c49-60f2fe59abed)
 
 
 
 After:
 
-
-![](https://github.com/Object-detection-on-image-and-video-using-YOLO-v8/video_sesudah_yolov8.gif)
-
+![video_sesudah_yolov8](https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/assets/41849571/ae7de3bf-c65d-489a-9f41-47848c95d5ad)
 
 
 **-----------------**
