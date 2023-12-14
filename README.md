@@ -4,7 +4,7 @@ OBJECT DETECTION ON IMAGE AND VIDEO USING YOLO V8 ON GOOGLE COLAB
 
 Colab: https://colab.research.google.com/drive/17ANVVp8UssQN2OVHzgGGKplck1QLogVe?usp=sharing
 
-**---------------------------------------------------------------------------------------------------------**
+**-------------------------------**
 
 Explanation:
 
@@ -112,7 +112,7 @@ elif file_name.lower().endswith(('.mp4', '.avi', '.mkv')):
       files.download(output_path)
 ```
 
-**---------------------------------------------------------------------------------------------------------**
+**-------------------------------**
 
 **Output on Image:**
 1. Before
