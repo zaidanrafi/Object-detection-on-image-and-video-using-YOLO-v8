@@ -35,6 +35,7 @@ After:
 ![image](https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/assets/41849571/5e6c1114-d6fe-4a5f-b601-c6235f4029f8)
 
 
+
 **Output on VIdeo:**
 
 Before:
