@@ -149,7 +149,7 @@ https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/
 After:
 
 
-[https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/assets/41849571/190312df-8cc5-41ab-a25e-7172226ee29b](https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/blob/main/video_sesudah_yolov8.gif)https://github.com/zaidanrafi/Object-detection-on-image-and-video-using-YOLO-v8/blob/main/video_sesudah_yolov8.gif
+![](https://github.com/Object-detection-on-image-and-video-using-YOLO-v8/video_sesudah_yolov8.gif)
 
 
 
