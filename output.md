@@ -65,4 +65,4 @@ After:
 
 **-----------------**
 
-By: Zaidan Muhammad Rafi (Tugas UAS Kecerdasan Buatan)
+By: Zaidan Rafi
