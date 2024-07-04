@@ -1,4 +1,4 @@
-By: Zaidan Muhammad Rafi (Tugas UAS Kecerdasan Buatan)
+By: Zaidan Rafi
 
 OBJECT DETECTION ON IMAGE AND VIDEO USING YOLO V8 ON GOOGLE COLAB
 
